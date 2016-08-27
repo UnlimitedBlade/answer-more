@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return "answer-more"
+        return "answer-more";
     }
 }
